@@ -12,3 +12,6 @@ I reviewed my knwolledge of HTML, CSS, and gained new insights in Javascript and
 
 ## Career/Employability/Learning Insights
 After completing this practical, I have refreshed and gained further knowledge in regards to web design allwoing me to have be able to grasp oppurtunities when it comes to web design, increasing my employability. Furthermore, I have refiend my skills in actually designing, not just improving my skills in using HTML or CSS. As I had to actually design several parts of the website myself without relying on any external sources. I learned how to more efficiently manage my time as well as the practical this week has a due date that is only 2 days away from the day the practical is announced.
+
+Below is the link to the results of my practical for this week:
+https://albert-alvaro.github.io/CP3402_Website
