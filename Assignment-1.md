@@ -7,7 +7,7 @@ The task for this assignment is to create 2 websites using 2 different content m
 ## Goal
 The goal of creating these two websites is to showcase the potential that websites can have by providing a company with the ability to market to 2 entirely different customer segments. The goal of my websites is to tagret different target audeiences that can benefit from coming into contact with my company. Furthermore, my company has the necessary skills and resources to cater towards multiple target demographics thus the creation of 2 websites for 2 differing audiences is only obvious
 
-## Websites Description
+## Website Descriptions
 
 My company name is Varo Consultation, it is a start up consultation company with a modest portfolio, since it has the necessary experts requried to branch off into 2 seperate industries, it has decided to create 2 subsidiaries which cater to 2 seperate clientele. One of the subsidiaries is catered towards those seekling solutions for their digital and technological problems, the subsidiary is named Varo Digital Solutions. The other subsidiary is focused and specialized in helpng cliebnts who require assistance with financial matters, the subsidiary is named Varo Financial Consultancy.
 
