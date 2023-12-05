@@ -4,8 +4,12 @@
 
 The task for this assignment is to create 2 websites using 2 different content management systems, both websites should be for the same company but targeting different industries. Showcasing the segmentation of a company and how it can be steeped in diverse industries.
 
-## Goal
-The goal of creating these two websites is to showcase the potential that websites can have by providing a company with the ability to market to 2 entirely different customer segments. The goal of my websites is to tagret different target audeiences that can benefit from coming into contact with my company. Furthermore, my company has the necessary skills and resources to cater towards multiple target demographics thus the creation of 2 websites for 2 differing audiences is only obvious
+## Goals
+The goal of creating these two websites is to showcase the potential that websites can have by providing a company with the ability to market to 2 entirely different customer segments. The goal of my websites is to tagret different target audeiences that can benefit from coming into contact with my company. Furthermore, my company has the necessary skills and resources to cater towards multiple target demographics thus the creation of 2 websites for 2 differing audiences is only obvious.
+
+The first website has the goal of catering towards clientele with issues regarding digital matters or technological matters, the website is thus built specifically to pander towards such clients. The goal is to atttract and retain the attentions of potential client who visits the site and encourage them to contact Varo Digital Solutions regarding digital matters or technological mnatters that they might need help with.
+
+Meanwhile the second website has the goal of attracting a different type of clientele, it has the goal of attracting clients which are having financial issues and require assistances in such regards. The second website also has the goal of attracting clients and retaining their interest in such a way that they will be willing to contact us throught he website regarding the financial problem which they have.
 
 ## Website Descriptions
 
