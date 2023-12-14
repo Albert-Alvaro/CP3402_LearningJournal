@@ -32,11 +32,11 @@ I have gained a myriad of insight throught he practical this week, throguh learn
 ## Career/Employability/Learning Insights
 I have gained much this week that increase the career prospects I possess as well as my employability. Being able to run a locally hsoted server as well as knwoing what to do to fully utilize such an instance is a valuable skill that any employer will be on the lookout for. Moreover I had also learned how to locally hust an instance of WordPress on the aforementioned local servers, which is another skill that highly increases my employability. This experience has taught how to do web development as someone doing it for an enterprise would do, which is a skill and experience which will greatly improve my career prospects.
 
-Proof of my XAMPP Setup:
-Apache and MySQL Servers running using XAMPP
+## Proof of my XAMPP Setup:
+### Apache and MySQL Servers running using XAMPP
 ![Screenshot 2023-12-13 105814](https://github.com/Albert-Alvaro/CP3402_LearningJournal/assets/118112483/288bf869-7571-4404-b030-754f0f1e35de)
-MySQL Database Setup
+### MySQL Database Setup
 ![Screenshot 2023-12-13 110120](https://github.com/Albert-Alvaro/CP3402_LearningJournal/assets/118112483/e269f918-06c7-4c50-b2bc-cc6d9c47cc8b)
-WordPress Instance running on a local server
+### WordPress Instance running on a local server
 ![Screenshot 2023-12-13 110020](https://github.com/Albert-Alvaro/CP3402_LearningJournal/assets/118112483/05a1b95c-3843-4345-b29f-dc3da3443c2d)
 
