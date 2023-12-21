@@ -1,4 +1,4 @@
-# Week 4
+# Week 5
 
 ## Learning Activities & Resources
 This week I had utilized a veriety of methods to be learn as much as I can regarding the current topic which is incredibly fascinating. The topic of WordPress child themes brings me great interest, and my drive to learn mroe regarding it reflects this interest as well. I have consumed a variety of tutorial videos as well as articles regarding the topic of child theems in WordPress and how to actually create, customize, and deploy them. Utilizing the Localhost server which I have learned to create last week has benefitted me tremendously as well as modifying and changing the child theme has never been easier.
