@@ -43,3 +43,9 @@ Linkes to Group Teamwork Tools
 * GitHub Repository: https://github.com/AdityaVijay1/CMS-GroupPA1
 * Trello: https://trello.com/b/T1Q9RoCq/Project%20Management%20CMS
 * Daily Stand-up Documentation: https://jamboard.google.com/d/13ioBTYugC6YwWDIpfm3NOoIUAI48Mkwp06f5cjBfTmg/viewer
+
+Screenshot Proof:
+![image](https://github.com/Albert-Alvaro/CP3402_LearningJournal/assets/118112483/b7244a65-1cfe-40f1-bec3-cee102f0dff5)
+![image](https://github.com/Albert-Alvaro/CP3402_LearningJournal/assets/118112483/c4b206fc-e73a-4017-a825-a5fc7c1eea83)
+
+
