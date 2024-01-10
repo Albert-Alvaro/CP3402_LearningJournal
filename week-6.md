@@ -1,4 +1,4 @@
-# Week 5
+# Week 6
 
 ## Learning Activities & Resources
 This week I learn and research mroe regarding th ebest practices for conducting group work, I learned of the best way to communicate and to keep in touch with teammates, and also how to conduct myself when doing teamwork. Furthermore, through various youtube videos I also learned of the various teamworking tools which we will be using for our group project, below is the various youtube links to the videos which I have watched in preparation for this group assignment.
